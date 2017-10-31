@@ -25,8 +25,9 @@ Please contact [chairs][] for any slot proposals.
 |-------|-------------------------|----------------------------------------|---------------------|
 | 15:50 | Chairs                  | Intro, RG Status                       | draft-irtf-t2trg-*  |
 | 16:05 | Chairs                  | Meeting reports                        | [Berlin][], [OCF][] |
-|     ? | ?                       | crypto update?                         | ?                   |
-|     ? | Michael McCool (remote) | WISHI: semantic interop of AVS and IoT |                     |
+|       | R. Moskowitz            | Small Crypto for Small IoT             |  [draft-moskowitz-small-crypto](https://tools.ietf.org/html/draft-moskowitz-small-crypto-00) |
+|       | Dirk Kutscher           | Edge computing and IoT update          |                     |
+|       | Michael McCool (remote) | WISHI: semantic interop of AVS and IoT |                     |
 |       |                         | Potential Breakouts                    |                     |
 | 17:30 | Chairs                  | Meeting Planning, Wrapup               | [NDSS DISS CfP][]   |
 
