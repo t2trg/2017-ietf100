@@ -26,7 +26,7 @@ Please contact [chairs][] for any slot proposals.
 | 15:50 | Chairs                  | Intro, RG Status                       | draft-irtf-t2trg-*  |
 | 16:00 | Chairs                  | Meeting reports                        | [Berlin][], [OCF][] |
 | 16:10 | R. Moskowitz            | Small Crypto for Small IoT             |  [draft-moskowitz-small-crypto](https://tools.ietf.org/html/draft-moskowitz-small-crypto-00) |
-| 16:35 | Dirk Kutscher           | Edge computing and IoT update          |                     |
+| 16:35 | Dirk Kutscher & Liang GENG          | Edge computing and IoT     |                     |
 | 17:10 | Michael McCool (remote) | WISHI: semantic interop of AVS and IoT |                     |
 | 17:40 | Chairs                  | Meeting Planning, Wrapup               | [NDSS DISS CfP][]   |
 
