@@ -23,7 +23,7 @@ Please contact [chairs][] for any slot proposals.
 
 |  Time | Who                     | Subject                                | Docs                |
 |-------|-------------------------|----------------------------------------|---------------------|
-| 15:50 | Chairs                  | Intro, RG Status                       | draft-irtf-t2trg-*  |
+| 15:50 | Chairs                  | Intro, RG Status                       | [draft-irtf-t2trg-iot-seccons](https://tools.ietf.org/html/draft-irtf-t2trg-iot-seccons-08) [draft-irtf-t2trg-rest-iot-00](https://tools.ietf.org/html/draft-irtf-t2trg-rest-iot-00)  |
 | 16:00 | Chairs                  | Meeting reports                        | [Berlin][], [OCF][] |
 | 16:10 | R. Moskowitz            | Small Crypto for Small IoT             |  [draft-moskowitz-small-crypto](https://tools.ietf.org/html/draft-moskowitz-small-crypto-00) |
 | 16:35 | Dirk Kutscher & Liang GENG          | Edge computing and IoT     |                     |
