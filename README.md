@@ -27,7 +27,7 @@ Please contact [chairs][] for any slot proposals.
 | 16:00 | Chairs                  | Meeting reports                        | [Berlin][], [OCF][] |
 | 16:10 | R. Moskowitz            | Small Crypto for Small IoT             |  [draft-moskowitz-small-crypto](https://tools.ietf.org/html/draft-moskowitz-small-crypto-00) |
 | 16:35 | Xavier de Foy, Dirk Kutscher          | IoT Edge Computing Survey and Gap Analysis      |                     |
-|       | Liang GENG              | Problem Statement of Edge Computing beyond Access Network for Industrial IoT |  [draft-geng-iiot-edge-computing-problem-statement-00]( https://tools.ietf.org/html/draft-geng-iiot-edge-computing-problem-statement-00)                   |
+|       | Michael McBride         | Problem Statement of Edge Computing beyond Access Network for Industrial IoT |  [draft-geng-iiot-edge-computing-problem-statement-00]( https://tools.ietf.org/html/draft-geng-iiot-edge-computing-problem-statement-00)                   |
 | 17:10 | Michael McCool (remote) | WISHI: semantic interop of AVS and IoT |                     |
 | 17:40 | Chairs                  | Meeting Planning, Wrapup               | [NDSS DISS CfP][]   |
 
