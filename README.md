@@ -15,7 +15,7 @@ Original: <https://github.com/t2trg/2017-ietf100/>
 
 Slides: https://github.com/t2trg/2017-ietf100/tree/master/slides
 
-Notes: http://etherpad.tools.ietf.org:9000/p/notes-irtf-100-t2trg
+Notes: https://etherpad.tools.ietf.org/p/notes-irtf-100-t2trg
 
 * Rough draft of an agenda:
 
